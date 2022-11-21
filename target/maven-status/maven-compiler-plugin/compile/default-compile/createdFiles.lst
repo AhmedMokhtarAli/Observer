@@ -1,0 +1,6 @@
+com\mycompany\observer\Phone.class
+com\mycompany\observer\Observable.class
+com\mycompany\observer\Display.class
+com\mycompany\observer\IObserver.class
+com\mycompany\observer\Observer.class
+com\mycompany\observer\WorkStation.class
